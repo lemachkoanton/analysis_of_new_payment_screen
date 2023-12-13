@@ -8,11 +8,11 @@
 
 Главная цель проекта - разработать и оптимизировать SQL запрос, который позволит анализировать следующие метрики:
 
-ARPU (Average Revenue Per User)
-ARPAU (Average Revenue Per Active User)
-CR в покупку (Conversion Rate to Purchase)
-CR активного пользователя в покупку
-CR пользователя из активности по математике в покупку курса по математике
+- ARPU (Average Revenue Per User)
+- ARPAU (Average Revenue Per Active User)
+- CR в покупку (Conversion Rate to Purchase)
+- CR активного пользователя в покупку
+- CR пользователя из активности по математике в покупку курса по математике
 
 ## Определения пользователей
 
